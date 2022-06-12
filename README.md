@@ -1,1 +1,3 @@
+<!DOCKTYPE HTML>
 # odin-recipes
+<>
